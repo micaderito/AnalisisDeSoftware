@@ -1,2 +1,0 @@
-# AnalisisDeSoftware
-Carpeta técnica
