@@ -1,8 +1,0 @@
-ezequiel,galvez,ezequiel18,biologia
-emanuel,perez,emaperez,biologia
-ana,galvez,amg1688,biologia
-ana,galvez,amg1688,12345
-ezequiel,galvez,ezequiel19,biologia
-rodrigo,terraza,rodxte,asd
-juan,cruz,juan,masteryodajulian,fernandez,julian,1234
-julian,fernandez,julian,1234
