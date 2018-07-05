@@ -1,8 +1,0 @@
-1,37659307,Ginecologo,Ezequiel,Galvez
-2,85421562,Gastroenterologo,Fernando,Veliz
-3,18102056,Cardiologo,Mario,Veliz
-4,18765386,Dermatologo,Rocio,Dualde
-5,12345667,Traumatologo,Fernando,Espinoza
-6,12341251,Dentista,Lorena,Rojas
-7,75648845,Medico clinico,Daniel,Hipolito
-8,30818300,proctologo,ricardo,gomez
