@@ -1,0 +1,16 @@
+1,1,gripe
+1,1,alergia
+2,3,tabaquismo
+2,5,esguience
+2,4,fractura
+3,2,infarto
+3,2,gripe
+4,6,dolor de panza
+5,4,mareos
+6,4,preinfarto
+7,1,nauseas
+7,1,vomito
+7,5,control
+8,5,terapia
+8,1,mareos
+9,2,cancer
